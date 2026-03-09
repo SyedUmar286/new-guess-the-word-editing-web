@@ -1,0 +1,3 @@
+body { display: flex; flex-direction: column; align-items: center; background: #eee; }
+.toolbar { margin: 15px; padding: 10px; background: white; border-radius: 8px; }
+#canvas { border: 2px solid #333; background: white; }
